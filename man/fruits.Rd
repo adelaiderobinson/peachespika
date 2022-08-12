@@ -13,5 +13,5 @@ fruits(fruit, number)
 Title
 }
 \examples{
-fruits(apples, 12)
+fruits("apples", 12)
 }
